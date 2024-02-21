@@ -28,7 +28,7 @@ Step 12 : In the report view, under the insert tab, using shapes option from ele
 ### Following is the image of sales report:
 ![Sales Page](https://github.com/aniketpawar123/Project-Atliq/assets/123149177/d565b26e-8884-4837-aebd-c0e9a53c1397)
 
-Report
+
 
 Step 13 : Second page is of performance of hotel city wise. 
 ### Following image of performance report:
