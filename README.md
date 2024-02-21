@@ -75,7 +75,7 @@ Step 13 : Second page is of performance of hotel city wise.
 
 10. ADR : (Average Daily rate)
 
-It is the ratio of revenue to the total rooms booked/sold. It is the measure of the average paid for rooms sold in a given time period
+    It is the ratio of revenue to the total rooms booked/sold. It is the measure of the average paid for rooms sold in a given time period
 
     ADR = DIVIDE( [Revenue], [Total Bookings],0)
 
