@@ -42,30 +42,25 @@ Step 13 : Second page is of performance of hotel city wise.
 
     It is the ratio of revenue to the total rooms booked/sold. It is the measure of the average paid for rooms sold in a given time period
 
-    ADR = DIVIDE( [Revenue], [Total Bookings],0)
-
+    
 2.  RevPAR : (Revenue Per Available Room)
 
     RevPAR represents the revenue generated per available room, whether or not they are occupied. RevPAR helps hotels measure their revenue generating performance to accurately price rooms. RevPAR can help hotels measure themselves against other properties or brands.
 
-    RevPAR = DIVIDE([Revenue],[Total Capacity])
-
+    
 3.  DBRN : (Daily Booked Room Nights)
 
     This metrics tells on average how many rooms are booked for a day considering a time period
 
-    DBRN = DIVIDE([Total Bookings], [No of days])
-    
+      
 4.  DSRN : (Daily Sellable Room Nights)
 
     This metrics tells on average how many rooms are ready to sell for a day considering a time period
 
-    DSRN = DIVIDE([Total Capacity], [No of days])
-    
+        
 5.  Occupancy % :
-    Occupancy means total successful bookings happened to the 
-total rooms available(capacity)
+   
+    Occupancy means total successful bookings happened to the total rooms available(capacity)
 
-    Occupancy % = DIVIDE([Total Succesful Bookings],[Total Capacity],0)
-
+    
 
