@@ -36,7 +36,7 @@ Step 13 : Second page is of performance of hotel city wise.
 
 ![Perfo](https://github.com/aniketpawar123/Project-Atliq/assets/123149177/62390f43-f24c-4887-b4fb-07783a0b311d)
 
-### Key Measure Calculation:
+### Key Measures :
 
 1.  ADR : (Average Daily rate)
 
